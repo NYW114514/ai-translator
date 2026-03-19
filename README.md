@@ -29,6 +29,7 @@ uvicorn main:app --reload
 
 ### 2. 启动前端（Flutter）
 
+先解压 frontend.zip，然后：
 ```bash
 cd frontend/ai_translator_app
 flutter pub get
